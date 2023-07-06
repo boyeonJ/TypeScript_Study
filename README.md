@@ -8,12 +8,20 @@
 |          [황희정](https://github.com/goatFE)           |         [류재경](https://github.com/ujkey)          |         [정보연](https://github.com/boyeonJ)          |         [양현화](https://github.com/hhyanghh)          |
 
 ## 스터디 진행
+```
+1. 챕터별 배운내용을 기록하기
+2. 챕터와 관련된 문제 같이 풀어보기
+3. 실전 프로젝트에 적용해보기
+4. 타입스크립트 챌리지 도전하기
+```
+#### 1. 챕터별 배운내용을 기록하기
+- dayN 폴더를 만들기
+- 맡은 부분의 챕터 이름으로 파일 만들기(ex, 인터페이스.md)
+- [템플릿](https://github.com/boyeonJ/TypeScript_Study/blob/main/Template.md)에 맞춰 내용 작성하기
 
-- 황희정, 정보연, 류재경, 양현화
-  - 챕터별 배운내용을 기록하기
-  - 챕터와 관련된 문제 같이 풀어보기
-  - 실전 프로젝트에 적용해보기
-  - 타입스크립트 챌리지 도전하기
+#### 2. 챕터와 관련된 문제 같이 풀어보기
+- [희정](https://github.com/goatFE)님이 찾아주신 문제 같이 풀어보기
+- 학습한 내용 관련된 [실전 문제](https://yamoo9.gitbook.io/typescript/interface/parameters) 함께 풀어보기
 
 ## 일정
 
